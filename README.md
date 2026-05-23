@@ -148,7 +148,7 @@ Scores a parsed resume against a job description dict:
 
 ## 📹 Demo Video
 
-[▶ Watch Demo on YouTube](#) ← *Add your YouTube link here*
+[▶ Watch Demo on YouTube](https://youtu.be/6y9LKcZZjt4) 
 
 ---
 
