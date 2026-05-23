@@ -1,0 +1,54 @@
+{
+    "candidate": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "phone": "+1-415-555-9876",
+        "skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "NLP",
+            "TensorFlow",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy",
+            "Git",
+            "Tableau",
+            "Power BI"
+        ],
+        "experience_years": 3.0,
+        "raw_text": "Alice Johnson\nalice.johnson@example.com | +1-415-555-9876\n\nSummary\nData scientist with 3 years of experience building ML pipelines and NLP solutions.\n\nTechnical Skills\nPython, Machine Learning, NLP, Pandas, NumPy, Scikit-learn, SQL, TensorFlow, Git\n\nEducation\nMaster of Science in Data Science – Stanford University\n\nWork Experience\nSenior Data Scientist – TechCorp Inc. (2021 – Present)\n  - Built end-to-end NLP pipelines for sentiment analysis\n  - Developed recommendation engine using Scikit-learn\n\nData Analyst – Analytics Co. (2020 – 2021)\n  - Created dashboards with Tableau and Power BI"
+    },
+    "job": {
+        "title": "Data Scientist",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "NLP",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "SQL"
+        ],
+        "min_experience_years": 2,
+        "preferred_education": "data science"
+    },
+    "match": {
+        "total_score": 100.0,
+        "skill_score": 60.0,
+        "exp_score": 30.0,
+        "edu_score": 10.0,
+        "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "NLP",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "SQL"
+        ],
+        "missing_skills": [],
+        "candidate_experience_years": 3.0,
+        "required_experience_years": 2.0
+    }
+}

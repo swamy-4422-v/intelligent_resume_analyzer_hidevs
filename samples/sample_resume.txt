@@ -1,0 +1,19 @@
+Alice Johnson
+alice.johnson@example.com | +1-415-555-9876
+
+Summary
+Data scientist with 3 years of experience building ML pipelines and NLP solutions.
+
+Technical Skills
+Python, Machine Learning, NLP, Pandas, NumPy, Scikit-learn, SQL, TensorFlow, Git
+
+Education
+Master of Science in Data Science – Stanford University
+
+Work Experience
+Senior Data Scientist – TechCorp Inc. (2021 – Present)
+  - Built end-to-end NLP pipelines for sentiment analysis
+  - Developed recommendation engine using Scikit-learn
+
+Data Analyst – Analytics Co. (2020 – 2021)
+  - Created dashboards with Tableau and Power BI

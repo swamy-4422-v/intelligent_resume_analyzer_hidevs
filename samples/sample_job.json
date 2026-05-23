@@ -1,0 +1,6 @@
+{
+    "title": "Data Scientist",
+    "required_skills": ["Python", "Machine Learning", "NLP", "Pandas", "NumPy", "Scikit-learn", "SQL"],
+    "min_experience_years": 2,
+    "preferred_education": "data science"
+}
